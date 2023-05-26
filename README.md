@@ -1,1 +1,1 @@
-# HosteeWebsite.github.io
+# hosteewebsite.github.io
